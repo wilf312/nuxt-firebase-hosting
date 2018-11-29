@@ -1,5 +1,7 @@
 # firebase hosting test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/wilf312/nuxt-firebase-hosting.svg)](https://greenkeeper.io/)
+
 > My fabulous Nuxt.js project
 [DEMO](https://test-b550d.firebaseapp.com)
 [DEMO sitemap.xml](https://test-b550d.firebaseapp.com/sitemap.xml)
