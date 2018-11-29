@@ -2,6 +2,8 @@
 
 > My fabulous Nuxt.js project
 [DEMO](https://test-b550d.firebaseapp.com)
+[DEMO sitemap.xml](https://test-b550d.firebaseapp.com/sitemap.xml)
+
 
 
 ## Build Setup
